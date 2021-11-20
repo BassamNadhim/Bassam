@@ -1,10 +1,4 @@
-<a href="" target="_blank"> <img src="https://s3.amazonaws.com/penpenny-media/613a3451-5962-5dd5-8618-6587a488347a" alt="Rdimo's Github"/></a>
-
-<p align="center"><img src="" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
-<p align="center"><a href="" target="_blank"><img src="" alt="shield.png"></a></p></p>
-
+<img src="https://camo.githubusercontent.com/34840c2a7324537565a9f0b164528dc9c920da12e05db88c7a0741d7824fefd7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f70656e70656e6e792d6d656469612f36313361333435312d353936322d356464352d383631382d363538376134383833343761" alt="Rdimo's Github" data-canonical-src="https://s3.amazonaws.com/penpenny-media/613a3451-5962-5dd5-8618-6587a488347a" style="max-width: 100%;">
 
 # About Me:
 
